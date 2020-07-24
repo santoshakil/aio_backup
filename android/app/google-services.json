@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "348115771543",
+    "firebase_url": "https://aio-bckup.firebaseio.com",
+    "project_id": "aio-bckup",
+    "storage_bucket": "aio-bckup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348115771543:android:2394098faf3b42a0b849d2",
+        "android_client_info": {
+          "package_name": "aio.backup.aio_backup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348115771543-dv22rveqk2di70q9bjg5ga8cmhd91u91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aio.backup.aio_backup",
+            "certificate_hash": "a4d538fece84f723edaace2d6ed281dd38bd78dd"
+          }
+        },
+        {
+          "client_id": "348115771543-lsf4vru2m9rsiiajj1i9s24155httf50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQWAaqQ7xz_Sf4DVRIK9GslroKkslfVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348115771543-lsf4vru2m9rsiiajj1i9s24155httf50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
